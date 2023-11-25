@@ -59,5 +59,7 @@ while not q.empty():
     #to only get the data, print the data at index[1]
     print(q.get()[1])
 
-#It's amazing application can be seen at port scanner
+#Its amazing application can be seen at port scanner
+#we would check if any ports are open in a network for revealing the vulnerabilities of the network
+
 
